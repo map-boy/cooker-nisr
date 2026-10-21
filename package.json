@@ -1,0 +1,21 @@
+{
+  "name": "cooker",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w apps/web",
+    "typecheck": "npm run typecheck -w apps/web && tsc --noEmit -p tools",
+    "build": "npm run build -w apps/web",
+    "lint:content": "tsx tools/lint-content.ts",
+    "sim": "tsx tools/simulate.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "concurrently": "^10.0.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

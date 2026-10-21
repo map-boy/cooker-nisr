@@ -1,0 +1,16 @@
+path_id,lfs_sector,share_2024Q3,share_2025Q3,share_2026Q3,jobs_2025Q3,jobs_2026Q3,jobs_change_pct,source,demand_0_1
+farming,Agriculture forestry,32.628101233593085,35.06513420103376,34.15090959857237,1714307,1623164,-5.3,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",1.0
+construction,Construction,13.12937479370772,11.332937045836555,11.86222496302343,554058,563802,1.8,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.347
+driving,Transportationa,7.229198124162389,6.958131596153221,7.737131440068811,340178,367739,8.1,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.227
+sales,Whole sale,15.143024704460176,15.616483395289013,15.4242110978335,763478,733100,-4.0,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.452
+bookkeeping,Financial and insurance,0.8548740207923514,0.7712613409956752,1.112884632626011,37706,52894,40.3,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.033
+cooking,Accommodation,3.786175198163723,4.099823961181334,3.132941114288781,200437,148906,-25.7,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.092
+tourism,Accommodation,3.786175198163723,4.099823961181334,3.132941114288781,200437,148906,-25.7,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.092
+teaching,Education,4.124807514172259,4.002177243421927,4.362406089030498,195663,207342,6.0,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.128
+webapp,Information and communication,0.2922759412458299,0.3829228707014107,0.3077695326778565,18721,14628,-21.9,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.009
+media,Information and communication,0.2922759412458299,0.3829228707014107,0.3077695326778565,18721,14628,-21.9,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.009
+journalism,Information and communication,0.2922759412458299,0.3829228707014107,0.3077695326778565,18721,14628,-21.9,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.009
+repair,Other services,3.682845998675535,3.757781954210458,5.245310205561833,183715,249305,35.7,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.154
+hair,Other services,3.682845998675535,3.757781954210458,5.245310205561833,183715,249305,35.7,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.154
+tailoring,Manufacturing,6.888754587264258,6.444213979943974,6.210828085270308,315053,295195,-6.3,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.182
+interpreting,"Professional, scientific",0.7817266801676459,0.882381588543821,0.740530633711213,43139,35197,-18.4,"NISR LFS Q3 2026 tables, EconomicActivitySex (all sexes); path mapping = our assumption",0.022

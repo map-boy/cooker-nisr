@@ -1,0 +1,16 @@
+button.res { font: inherit; border: 0; width: 100%; text-align: start; cursor: pointer; color: inherit; }
+button.res:active { transform: translateY(3px); }
+.road { position: relative; display: flex; align-items: center; justify-content: space-between; padding: 6px 4px; }
+.road::before { content: ''; position: absolute; inset-inline: 22px; top: 50%; height: 6px; margin-top: -3px; border-radius: 99px; background: var(--cream2); }
+.stn { position: relative; width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; font-weight: 800; color: var(--mute); background: #fff; box-shadow: 0 3px 0 #e3c294; }
+.stn.done { color: #fff; background: linear-gradient(180deg, #27a39c, var(--teal)); box-shadow: 0 3px 0 var(--teal-d); }
+.stn.now { color: #fff; background: linear-gradient(180deg, var(--orange2), var(--orange)); box-shadow: 0 3px 0 var(--orange-d), 0 0 0 4px rgba(245, 138, 69, 0.35); }
+.stn.flag { font-size: 1.3rem; background: transparent; box-shadow: none; }
+.stepcard { display: flex; flex-direction: column; gap: 8px; padding: 14px; border-radius: 22px; background: #fff; box-shadow: 0 4px 0 #e3c294; }
+.lvl { font-size: 0.8rem; font-weight: 800; letter-spacing: 0.04em; color: var(--orange-d); }
+.stext { margin: 0; font-size: 1.15rem; font-weight: 700; line-height: 1.3; color: var(--teal-d); }
+.mins { align-self: flex-start; font-size: 0.8rem; font-weight: 700; padding: 3px 10px; border-radius: 99px; background: var(--cream2); color: var(--ink); }
+.fix { margin: 0; padding: 8px 10px; border-radius: 14px; background: #fff1dc; border: 2px dashed var(--orange2); font-weight: 600; color: var(--ink); }
+.two { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.two .btn { min-height: 64px; justify-content: center; }
+.btn.alt { color: var(--teal-d); }

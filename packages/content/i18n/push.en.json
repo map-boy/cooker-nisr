@@ -1,0 +1,9 @@
+{
+  "remind.btn": "Remind me about my next step",
+  "remind.hint": "Optional. One short reminder if you wait 2 days. Stop any time.",
+  "remind.on": "Reminders are on.",
+  "remind.denied": "Notifications are blocked. Allow them in the browser settings.",
+  "remind.unsupported": "This phone or browser cannot show reminders.",
+  "remind.error": "Could not turn reminders on. Try again later.",
+  "remind.ios": "On iPhone: tap Share, then Add to Home Screen, then open Cooker from there to get reminders."
+}
