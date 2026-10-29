@@ -4,6 +4,10 @@
 
 Cooker helps young Rwandans discover work paths that fit them, then gives small tested first steps (20 min/day, free) instead of a job-title guess. It runs in the browser in Kinyarwanda, English, French and Swahili (Arabic and Luganda fall back to English until reviewed), works offline as a PWA, and needs no typing.
 
+**Live demo:** https://cooker-public.vercel.app
+
+**Repository:** https://github.com/map-boy/cooker-nisr
+
 ## How it works
 1. Language, consent, 8 context taps (age band, situation, data/device, money, time).
 2. Joy map (what you really do) + adaptive yes/no/forced-choice cards; stops by rule when the answer is stable.
@@ -35,4 +39,4 @@ Processed tables: nisr/data/processed. Build scripts: nisr/*.py. Checked figures
 Code, documentation and data-parsing scripts were drafted with Claude (Anthropic) and run, tested and reviewed by the team. Kinyarwanda, French and Swahili texts are drafts pending native-speaker review.
 
 ## Team
-[FILL: names and student status]
+Mugisha Alain Paisible (ULK, Data Science) and <TEAMMATE NAME> (<UNIVERSITY>, <PROGRAMME>). Rwandan citizen: <WHO>.

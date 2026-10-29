@@ -1,4 +1,4 @@
-﻿# PROBLEM STATEMENT - Cooker Pathfinder (numbers: NISR Labour Force Survey, Aug 2026 / Q3)
+# PROBLEM STATEMENT - Cooker Pathfinder (numbers: NISR Labour Force Survey, Aug 2026 / Q3)
 
 1. The problem
 1,038,707 young Rwandans (27.5% of 16-30 year-olds) are not in employment, education or training. For young women it is 35.2%, in rural areas 30.3%.
@@ -18,7 +18,7 @@ An aggregated, anonymised dashboard shows talent supply against demand for plann
 Engine runs in the browser: works with weak data, no per-user server cost, 6 languages, privacy-first, under-18 safe.
 
 4. Alignment
-NST2 / Vision 2050 youth employment and skills pillars [FILL exact pillar names after reading NST2].
+NST2 / Vision 2050 youth employment and skills pillars NST2 pillars <VERIFY NAMES FROM NST2 DOCUMENT>.
 Track 3 Open Innovation.
 
 5. Honest limits
