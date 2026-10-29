@@ -39,4 +39,4 @@ Processed tables: nisr/data/processed. Build scripts: nisr/*.py. Checked figures
 Code, documentation and data-parsing scripts were drafted with Claude (Anthropic) and run, tested and reviewed by the team. Kinyarwanda, French and Swahili texts are drafts pending native-speaker review.
 
 ## Team
-Mugisha Alain Paisible (ULK, Data Science; Rwandan citizen) and TEAMMATE_NAME (UNIVERSITY, PROGRAMME; Rwandan citizen: YES/NO).
+**Team PK**: Mugisha Alain Paisible (ULK, Data Science).

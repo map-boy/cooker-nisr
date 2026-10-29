@@ -18,7 +18,7 @@ An aggregated, anonymised dashboard shows talent supply against demand for plann
 Engine runs in the browser: works with weak data, no per-user server cost, 6 languages, privacy-first, under-18 safe.
 
 4. Alignment
-NST2 / Vision 2050: Vision 2050 and NST2 youth employment and skills priorities (exact pillar names to be confirmed against NST2 text).
+NST2 / Vision 2050: Vision 2050 and NST2 youth employment and skills priorities.
 Track 3 Open Innovation.
 
 5. Honest limits
